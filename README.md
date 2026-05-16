@@ -8,13 +8,7 @@ Sample workspaces for [pixel-art-lint](https://pixelartlint.com). Folder layouts
 
 ## Run the CLI
 
-Install the `pixel-art-lint` binary.
-
-```bash
-git clone https://github.com/pixel-art-lint/pixel-art-lint.git
-cd pixel-art-lint
-cargo install --path cli --locked
-```
+[Download](https://pixelartlint.com/download) the `pixel-art-lint` binary and add it to your path.
 
 Lint an example from the pack directory:
 
