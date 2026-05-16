@@ -1,0 +1,6 @@
+[tool.pixel_linter]
+severity_default = "warn"
+
+[palette]
+colours = ["#52607CFF", "#BD6C4AFF", "#76E4FFFF", "#FDBE53FF", "#00000000", "#FF706DFF", "#8C9CB5FF", "#65A556FF", "#C1CCDDFF", "#3D212DFF", "#773833FF", "#E94334FF", "#BE6C49FF", "#CF8254FF", "#FCBC8FFF", "#FEC99CFF", "#8B9BB4FF", "#FFFFFFFF", "#3F2631FF", "#C34B35FF", "#009ADCFF", "#763B36FF", "#F28462FF", "#5A6988FF", "#EBA66CFF", "#262B44FF", "#8BD87DFF", "#E38628FF", "#479F4AFF", "#84C669FF", "#E84537FF", "#51607DFF", "#C0CBDCFF", "#EAA56CFF"]
+include_transparent = true
