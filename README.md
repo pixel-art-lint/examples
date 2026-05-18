@@ -1,6 +1,6 @@
 # examples
 
-Sample workspaces for [pixel-art-lint](https://pixelartlint.com).
+Sample workspaces for [pixel-art-lint](https://pixelartlint.com) or [itch.io](https://jilminator.itch.io/pixel-art-linter)
 
 ## Example folders
 
