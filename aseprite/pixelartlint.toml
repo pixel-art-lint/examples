@@ -1,0 +1,22 @@
+[tool.pixel_linter]
+severity_default = "warn"
+
+[palette]
+colours = [
+  "#070505FF",
+  "#211919FF",
+  "#423C56FF",
+  "#523A2AFF",
+  "#537C44FF",
+  "#57627AFF",
+  "#596FAFFF",
+  "#6BB9B6FF",
+  "#79707EFF",
+  "#8A6B3EFF",
+  "#945B28FF",
+  "#A0B335FF",
+  "#B8AAB0FF",
+  "#C19C4DFF",
+  "#EADB74FF",
+]
+include_transparent = true
