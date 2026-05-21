@@ -16,13 +16,7 @@ Lint an example from the pack directory:
 ```bash
 git clone https://github.com/pixel-art-lint/examples.git
 cd examples
-pixel-art-lint check .
-```
-
-Default behaviour uses the glob `**/*.{aseprite,png,bmp}` when you pass no extra arguments. To pass globs explicitly:
-
-```bash
-pixel-art-lint check . "**/*.{aseprite,png}"
+pixel-art-lint check
 ```
 
 Use `--verbose` if you need more logging (`SPDLOG_RS_LEVEL` is also supported; see the CLI `--help` text).
