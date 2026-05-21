@@ -20,3 +20,5 @@ pixel-art-lint check
 ```
 
 Use `--verbose` if you need more logging (`SPDLOG_RS_LEVEL` is also supported; see the CLI `--help` text).
+
+<img width="765" height="129" alt="image" src="https://github.com/user-attachments/assets/c0e08746-8326-4afe-872e-c77de13f65bb" />
