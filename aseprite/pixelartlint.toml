@@ -1,7 +1,7 @@
 [tool.pixel_linter]
 severity_default = "warn"
 
-[palette]
+[tool.pixel_linter.palette]
 colours = [
   "#070505FF",
   "#211919FF",
