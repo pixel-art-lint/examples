@@ -20,3 +20,6 @@ colours = [
   "#EADB74FF",
 ]
 include_transparent = true
+
+[tool.pixel_linter.colour_mode]
+mode = "rgba"
